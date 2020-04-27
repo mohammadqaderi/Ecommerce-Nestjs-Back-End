@@ -1,0 +1,8 @@
+export enum CategoryTypes {
+  PCs = 'PCs',
+  LAPTOPS = 'LAPTOPS',
+  PLAY_STATIONS = 'PLAY_STATIONS',
+  ACCESSORIES = 'ACCESSORIES',
+  OTHERS = 'OTHERS',
+  HEAD_PHONES = 'HEAD_PHONES'
+}
